@@ -13,7 +13,7 @@
     <section id="hero">
         <!-- Hero section with animated background -->
         <div class="hero-content">
-            <h1>Welcome to Your Drone Business</h1>
+            <h1>Welcome to Your Drone Business nube</h1>
             <p>Discover the world from above with our professional drone services.</p>
             <a href="#services">Explore Our Services</a>
         </div>
