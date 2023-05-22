@@ -1,11 +1,10 @@
-/* Reset default styles */
+
 body, h1, h2, p, a {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
-
-/* Add styles for the different sections */
+ Add styles for the different sections */
 header {
     /* Styling for the navigation menu and logo */
 }
