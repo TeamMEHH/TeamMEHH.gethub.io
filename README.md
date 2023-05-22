@@ -14,6 +14,7 @@
             </ul>
         </nav>
     </header>
+    <link rel="stylesheet" type="text/css" href="styles.css">
     </footer> c2023 Jae530 </footer>
 </body>
 </html>
