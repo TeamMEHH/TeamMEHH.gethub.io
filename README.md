@@ -4,7 +4,7 @@
 </head>
 <body>
     <header>
-        <h1>Cyberpunk Code</h1>
+        <h1>Jaeden.XYZ</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
@@ -14,5 +14,6 @@
             </ul>
         </nav>
     </header>
+    </footer> c2023 Jae530 </footer>
 </body>
 </html>
